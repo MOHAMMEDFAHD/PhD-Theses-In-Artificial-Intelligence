@@ -105,18 +105,6 @@ ai-phd-theses-deconstructed/
 
 ---
 
-## Contributing
-
-Contributions from researchers, academics, and engineers are welcome:
-
-* Deconstruct milestone doctoral dissertations not yet included in the archive.
-* Clarify mathematical proofs and add illustrative geometric diagrams.
-* Build clean, minimal Jupyter notebooks that implement core concepts from scratch.
-
-Please read our [Contribution Guidelines (CONTRIBUTING.md)](CONTRIBUTING.md) to ensure submissions meet our academic rigor and LaTeX formatting standards.
-
----
-
 ## License
 
 This project is made available for academic and educational purposes under the **MIT License**. All original dissertations, excerpts, and institutional citations remain the intellectual property of their respective authors and granting universities.
