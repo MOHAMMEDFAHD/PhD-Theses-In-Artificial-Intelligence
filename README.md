@@ -1,4 +1,3 @@
-```markdown
 # AI Doctoral Theses Deconstructed: Academic and Mathematical Anatomies
 
 > **An advanced research repository dedicated to critical reading, mathematical deconstruction, and structural analysis of foundational Ph.D. dissertations that shaped artificial intelligence and deep learning.**
@@ -36,8 +35,6 @@ Every dissertation added to this repository follows a uniform, rigorous structur
 ├── 04_Critical_Review_Gaps.md        # Comparative matrices: research gaps, limitations of prior art, and novel solutions
 ├── 05_Literature_Lineage.md          # Structured citation tables tracing connections across related work
 └── 06_Implementation/               # Minimal implementations, simulations, and PyTorch / NumPy notebooks
-
-```
 
 ---
 
