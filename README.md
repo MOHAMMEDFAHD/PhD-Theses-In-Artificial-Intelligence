@@ -1,4 +1,3 @@
-```markdown
 # AI Doctoral Theses Deconstructed: Academic and Mathematical Anatomies
 
 > **An advanced research repository dedicated to critical reading, mathematical deconstruction, and structural analysis of foundational Ph.D. dissertations that shaped artificial intelligence, machine learning, and computer vision.**
