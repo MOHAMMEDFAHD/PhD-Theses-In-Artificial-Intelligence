@@ -20,7 +20,6 @@ This repository serves as an **in-depth anatomical library** of milestone Ph.D. 
 
 - **Bridge Empirical Engineering and Mathematical Theory:** Revisit the core mathematical principles underlying modern large-scale architectures.
 - **Academic Peer-Review Standards:** Dissect each dissertation using formal academic reviewing methodologies and evidence-based analysis.
-- **Reproducible Insights and Interactive Code:** Accompany theoretical formulations with clean `Jupyter Notebooks` that implement, verify, and simulate key concepts from scratch.
 
 ---
 
@@ -34,7 +33,7 @@ Every dissertation added to this repository follows a uniform, rigorous structur
 ├── 03_Mathematical_Compendium.md     # Equations, proofs, statistical frameworks, and theoretical bounds
 ├── 04_Critical_Review_Gaps.md        # Comparative matrices: research gaps, limitations of prior art, and novel solutions
 ├── 05_Literature_Lineage.md          # Structured citation tables tracing connections across related work
-└── 06_Implementation/               # Minimal implementations, simulations, and PyTorch / NumPy notebooks
+             
 
 ---
 
